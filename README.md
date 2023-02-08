@@ -21,9 +21,9 @@ O desafio proposto é atuar como cientista de dados na empresa fictícia de tele
 # 2. Etapas
 
 O desafio se divide em 3 etapas:
-1. [Limpeza dos dados trazidos de uma API](01.%20Limpeza%20dos%20dados/)
-2. [Exploração dos dados](02.%20Exploração%20dos%20dados/)
-3. [Criação de modelo de Machine Learning](03.%20Modelo%20de%20Machine%20Learning/)
+- [ ] 1. [Limpeza dos dados trazidos de uma API](01.%20Limpeza%20dos%20dados/)
+- [ ] 2. [Exploração dos dados](02.%20Exploração%20dos%20dados/)
+- [ ] 3. [Criação de modelo de Machine Learning](03.%20Modelo%20de%20Machine%20Learning/)
 
 A partir de uma [base de dados](Dados/Telco-Customer-Churn.json) em formato JSON extraída de uma API, a primeira etapa será a limpeza desses dados. Para isso, será preciso entender as informações do conjunto de dados (para auxiliar, foi fornecido um [Dicionário de Dados](Dados/dicionario.md)), analisar os tipos de dados, verificar as inconsistências e corrigi-las.
 
